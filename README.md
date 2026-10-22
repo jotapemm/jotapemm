@@ -7,7 +7,7 @@ Developer with 3+ years of experience, working with **Python on the backend**, *
 - Modular internal systems for tax recovery theses
 - Personal projects with Next.js and TypeScript
 
-## 🚀 Featured projects
+## Featured projects
 
 ### [Isis-Assist](https://github.com/jotapemm/isis-assist)
 Residential rental management app for landlords who run their property from their phone and want to leave spreadsheets behind. Covers apartments, tenants, contracts, payments, maintenance requests and reminders, with rent adjustment based on IGP-M and IPCA indexes.
