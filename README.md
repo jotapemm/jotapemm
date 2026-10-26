@@ -9,6 +9,10 @@ Developer with 3+ years of experience, working with **Python on the backend**, *
 
 ## Featured projects
 
+### [UP API Hub](https://github.com/jotapemm/API-UP-HUB)
+Internal platform for a Brazilian tax recovery firm that gathers all of the company's applications in a single authenticated hub. Each tax thesis is a module, and each module is a Python automation that reads SPED files (EFD-Contribuições and EFD ICMS/IPI), cross-checks the data, applies the thesis rules and calculates the recoverable PIS/COFINS credit, replacing hours of manual spreadsheet work. New theses plug into the hub following the same pattern, with the next one (ICMS-ST exclusion from the PIS/COFINS base, STJ Tema 1125) already in development.
+`Python` · `JavaScript` · `SPED/EFD` · `Vercel` · `Cloudflare`
+
 ### [Isis-Assist](https://github.com/jotapemm/isis-assist)
 Residential rental management app for landlords who run their property from their phone and want to leave spreadsheets behind. Covers apartments, tenants, contracts, payments, maintenance requests and reminders, with rent adjustment based on IGP-M and IPCA indexes.
 `Next.js 16` · `TypeScript` · `Tailwind` · `shadcn/ui` · `Prisma` · `PostgreSQL` · `Better Auth` · `Vitest`
